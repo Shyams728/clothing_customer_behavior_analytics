@@ -256,5 +256,3 @@ CONCATENATEX(
 - Validate calculated measures that use other measures as dependencies after adding them to ensure evaluation order is correct.
 
 ---
-
-Generated and added by GitHub Copilot on request for the repository owner.
